@@ -3,8 +3,6 @@ Kevin Angelo I. Braga
 
 # Why start skateboarding?
 ## A short list inspired by a friend on a Friday Afternoon!
-*gif does not showcase accurate use of a skateboard OR display any basic saftey precautions, do not recreate.*
-![what](https://static.wikia.nocookie.net/phighting/images/e/e3/Skateboard_360.gif/revision/latest/scale-to-width-down/1000?cb=20230105024518)
 
 # 1. Make new friends for life!
 If I could go back in time and meet my younger self I would thank him for deciding to start skateboarding and slap him on the head for nearly breaking my ankles. We shared everything on our troubled teenage minds to assist us on our problems. Skateboard friends are the best ones you can have (with a few exceptions) and they stay friends for life, even if you don’t see each other for years.
@@ -18,4 +16,7 @@ Once you get the basics and know how to balance you’ll start to progress. Tric
 As you keep practicing you notice you progress more and more, at some point you’ll pop that kickflip 9 out of 10 times.
 
 # References! ( I do not skateboard anymore :pensive:)
+
+# Something something)
 (https://www.skateboardershq.com/reasons-why-you-should-start-skateboarding-today/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZB9dz2WRP7I?si=GC5XBLcW7vb_9G-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

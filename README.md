@@ -19,6 +19,6 @@ As you keep practicing you notice you progress more and more, at some point youâ
 # References! ( I do not skateboard anymore ðŸ˜”)
 (https://www.skateboardershq.com/reasons-why-you-should-start-skateboarding-today/)
 
-# Something something (Misc.)
+# Some Music (Misc.)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZB9dz2WRP7I?si=GC5XBLcW7vb_9G-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
